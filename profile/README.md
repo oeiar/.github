@@ -1,12 +1,11 @@
-## Hi there 👋
+# Oein's homework archive center!
 
-<!--
+### This org is made for archiving my school homework.
 
-**Here are some ideas to get you started:**
+# History
+## - 2021 ( 5학년 )
+ - [창체 - 남는 음식 줄이기](https://github.com/oeiar/5grade-changche-ads-homework)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## - 2022 ( 6학년 )
+ - [국어 - 스마트폰 중독을 줄이자](https://github.com/oeiar/6grade-korean-class-ads-homework)
+ - [음악 - 뮤직 비디오 만들기](https://github.com/oeiar/6grade-music-music-video-homework)
