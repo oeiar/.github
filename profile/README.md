@@ -1,8 +1,8 @@
-# Oein's homework archive center!
+# Oein's homework archive
 
 ### This org is made for archiving my school homework.
 
-# History
+# Repos
 ## - 2021 ( 5학년 )
  - [창체 - 남는 음식 줄이기](https://github.com/oeiar/5grade-changche-ads-homework)
 
