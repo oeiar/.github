@@ -14,3 +14,4 @@
  - [음악 - 뮤직 비디오 만들기 S](https://github.com/oeiar/6grade-music-music-video-homework)
  - [방송부 - 유튜브 세팅 M](https://github.com/oeiar/6grade-broadcast-broadcast-infos)
  - [방학과제 - 감상문 쓰기 S](https://github.com/oeiar/6grade-book-reading)
+ - [사회 - 나라 소개 하기S](https://github.com/oeiar/6grade-social-country-ads)
