@@ -19,4 +19,4 @@ E : Essential school homework / W : What I want to do
  - [[PPT]](https://github.com/oeiar/6grade-social-country-ads/blob/main/%EC%B4%886_%EC%82%AC%ED%9A%8C_%EB%82%98%EB%9D%BC_%EB%B0%9C%ED%91%9C.pptx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[사회 - 나라 소개 하기 E](https://github.com/oeiar/6grade-social-country-ads)
  - [No Output] [영재 - 페스티벌 E](https://github.com/oeiar/6grade-young-jae)
  - [No Output] [영재 - 산출물 결과 E](https://github.com/oeiar/6grade-youngjae-test-result)
-  - [[Audio]](https://github.com/oeiar/6grade-friend-music-mixing/blob/main/7777777777.mp3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[친구의  - 음악 편집 E]
+  - [[Audio]](https://github.com/oeiar/6grade-friend-music-mixing/blob/main/7777777777.mp3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[친구의  - 음악 편집 E](https://github.com/oeiar/6grade-friend-music-mixing)
