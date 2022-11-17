@@ -20,4 +20,4 @@ E : Essential school homework / W : What I want to do
  - [No Output] [영재 - 페스티벌 E](https://github.com/oeiar/6grade-young-jae)
  - [No Output] [영재 - 산출물 결과 E](https://github.com/oeiar/6grade-youngjae-test-result)
   - [[Audio]](https://github.com/oeiar/6grade-friend-music-mixing/blob/main/7777777777.mp3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[친구의  - 음악 편집 E](https://github.com/oeiar/6grade-friend-music-mixing)
- - [[Video]]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[국어 - 발표 자료 만들기 E](https://github.com/oeiar/6grade-korean-video-making)
+ - [[Video]](https://github.com/oeiar/6grade-korean-video-making/blob/main/IMG_2580.MOV)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[국어 - 발표 자료 만들기 E](https://github.com/oeiar/6grade-korean-video-making)
